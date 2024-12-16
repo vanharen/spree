@@ -371,7 +371,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    securerandom (0.4.0)
+    securerandom (0.4.1)
     select2-rails (4.0.13)
     selenium-webdriver (4.24.0)
       base64 (~> 0.2)
@@ -529,9 +529,8 @@ GEM
     tracking_number (2.0.1)
       activesupport (>= 4.2.5)
       json (>= 1.8.3)
-    turbo-rails (2.0.6)
+    turbo-rails (2.0.11)
       actionpack (>= 6.0.0)
-      activejob (>= 6.0.0)
       railties (>= 6.0.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
