@@ -247,10 +247,14 @@ GEM
     mini_racer (0.16.0)
       libv8-node (~> 18.19.0.0)
     minitest (5.25.4)
-    mission_control-jobs (0.3.1)
-      importmap-rails
+    mission_control-jobs (1.0.1)
+      actioncable (>= 7.1)
+      actionpack (>= 7.1)
+      activejob (>= 7.1)
+      activerecord (>= 7.1)
+      importmap-rails (>= 1.2.1)
       irb (~> 1.13)
-      rails (>= 7.1)
+      railties (>= 7.1)
       stimulus-rails
       turbo-rails
     mobility (1.2.9)
